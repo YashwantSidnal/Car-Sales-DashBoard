@@ -1,10 +1,10 @@
 # Car Sales and Performance Analysis Dashboard🚗📊
 
-## Overview 🔧
+## Overview 📊
 
 This project involves a Power BI-based dashboard designed for analyzing car sales and performance metrics. The dashboard displays key sales data such as Year-to-Date (YTD) sales, growth rates, and sales by type (Third Party, Direct Sale, Pre Book). The dashboard also includes budget information and visualizes monthly sales performance to help stakeholders track and forecast trends effectively.
 
-## Features
+## Features🔧
 
 - **YTD Sales**: Displays sales data for the current and previous years.
 - **Growth Rate**: Shows the percentage growth between 2022 and 2023.
@@ -12,7 +12,7 @@ This project involves a Power BI-based dashboard designed for analyzing car sale
 - **Sales Type Breakdown**: Classifies sales by type: Third Party, Direct Sale, Pre Book.
 - **Monthly Sales Trends**: Graphs the sales data by month for performance analysis.
 
-## Dashboard Sections
+## Dashboard Sections📊
 
 1. **Sales Overview**: Shows the total sales for the current year, compared to the previous year.
 2. **Growth Analysis**: Provides the growth rate in sales between 2022 and 2023.
@@ -20,13 +20,13 @@ This project involves a Power BI-based dashboard designed for analyzing car sale
 4. **Sales Type Analysis**: Classifies sales into three categories—Third Party, Direct Sale, and Pre Book—and displays their relative share.
 5. **Monthly Sales Trend**: Displays a bar graph illustrating sales trends by month for easy comparison of sales patterns over time.
 
-## Data Sources
+## Data Sources📅
 
 - Sales data for 2022 and 2023.
 - Budget data for 2023.
 - Monthly sales performance metrics.
 
-## Visuals
+## Visuals🎨
 
 The dashboard uses interactive visuals including:
 - Bar charts for monthly trends.
@@ -34,7 +34,7 @@ The dashboard uses interactive visuals including:
 - Line charts for growth and comparison metrics.
 - 3D car models for visual emphasis and user interaction.
 
-## Usage
+## Usage⚙️
 
 - **View Sales Performance**: Track the performance of car sales over time with easily accessible metrics.
 - **Forecast Trends**: Use the monthly trends graph to predict future sales based on historical data.
