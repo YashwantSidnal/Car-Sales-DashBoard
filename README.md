@@ -1,6 +1,6 @@
 # Car Sales and Performance Analysis Dashboard🚗📊
 
-## 🔧Overview
+## Overview 🔧
 
 This project involves a Power BI-based dashboard designed for analyzing car sales and performance metrics. The dashboard displays key sales data such as Year-to-Date (YTD) sales, growth rates, and sales by type (Third Party, Direct Sale, Pre Book). The dashboard also includes budget information and visualizes monthly sales performance to help stakeholders track and forecast trends effectively.
 
@@ -40,14 +40,14 @@ The dashboard uses interactive visuals including:
 - **Forecast Trends**: Use the monthly trends graph to predict future sales based on historical data.
 - **Compare Sales Types**: Understand the proportion of sales by type and adjust strategies accordingly.
 
-## Getting Started
+## 🚀Getting Started🚀
 
 1. Clone the repository.
 2. Open the `.pbix` file in Power BI.
 3. Refresh the data connections (if needed).
 4. Use the interactive dashboard to explore the sales performance and trends.
 
-## Requirements
+## Requirements🖥️
 
 - Power BI Desktop or Power BI Service.
 - Access to the necessary data sources (Sales and Budget data).
