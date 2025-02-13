@@ -40,7 +40,7 @@ The dashboard uses interactive visuals including:
 - **Forecast Trends**: Use the monthly trends graph to predict future sales based on historical data.
 - **Compare Sales Types**: Understand the proportion of sales by type and adjust strategies accordingly.
 
-## 🚀Getting Started🚀
+## Getting Started🚀
 
 1. Clone the repository.
 2. Open the `.pbix` file in Power BI.
