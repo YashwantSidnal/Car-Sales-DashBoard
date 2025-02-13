@@ -1,6 +1,6 @@
 # Car Sales and Performance Analysis Dashboard🚗📊
 
-## Overview
+## 🔧Overview
 
 This project involves a Power BI-based dashboard designed for analyzing car sales and performance metrics. The dashboard displays key sales data such as Year-to-Date (YTD) sales, growth rates, and sales by type (Third Party, Direct Sale, Pre Book). The dashboard also includes budget information and visualizes monthly sales performance to help stakeholders track and forecast trends effectively.
 
